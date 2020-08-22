@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 95a53e2fcafc06d4db34ef9073c1911a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1255739813691617651
+    second: Bieg_0
+  - first:
+      213: 5841991556134683732
+    second: Bieg_1
+  - first:
+      213: -5452097767021653256
+    second: Bieg_2
+  - first:
+      213: 105711316260940913
+    second: Bieg_3
+  - first:
+      213: 1017000276142060236
+    second: Bieg_4
+  - first:
+      213: -6859845295946845200
+    second: Bieg_5
+  - first:
+      213: 8821822952744566214
+    second: Bieg_6
+  - first:
+      213: -3603722496806323560
+    second: Bieg_7
+  - first:
+      213: 1052429858470714246
+    second: Bieg_0
+  - first:
+      213: -5533304799231406794
+    second: Bieg_1
+  - first:
+      213: -8147324613316262663
+    second: Bieg_2
+  - first:
+      213: -6674565635941157573
+    second: Bieg_3
+  - first:
+      213: -5126286431488318281
+    second: Bieg_4
+  - first:
+      213: 7447791364574181867
+    second: Bieg_5
+  - first:
+      213: -8260733698049909029
+    second: Bieg_6
+  - first:
+      213: -5886202728484190587
+    second: Bieg_7
+  - first:
+      213: 1020292464115859733
+    second: Bieg_8
+  - first:
+      213: -3657920782765621350
+    second: Bieg_9
+  - first:
+      213: -5386686753843545375
+    second: Bieg_10
+  - first:
+      213: -3904248453506606049
+    second: Bieg_11
+  - first:
+      213: -240745853963710631
+    second: Bieg_12
+  - first:
+      213: 224601694604625621
+    second: Bieg_13
+  - first:
+      213: -344038461011942282
+    second: Bieg_14
+  - first:
+      213: 1440161103666006442
+    second: Bieg_15
+  - first:
+      213: 3426931416795276913
+    second: Bieg_16
+  - first:
+      213: 1448892066875235672
+    second: Bieg_17
+  - first:
+      213: -1870439635237210114
+    second: Bieg_18
+  - first:
+      213: -1821512161950266218
+    second: Bieg_19
+  - first:
+      213: -5866613977877171347
+    second: Bieg_20
+  - first:
+      213: -8143152240395999650
+    second: Bieg_21
+  - first:
+      213: 1557369538774662427
+    second: Bieg_22
+  - first:
+      213: 4553846016521820897
+    second: Bieg_23
+  - first:
+      213: 4586175211774335864
+    second: Bieg_24
+  - first:
+      213: 1306939457224105727
+    second: Bieg_25
+  - first:
+      213: 2528457196234384760
+    second: Bieg_26
+  - first:
+      213: 209532619015040894
+    second: Bieg_27
+  - first:
+      213: -6250308845046722655
+    second: Bieg_28
+  - first:
+      213: -658013357938164320
+    second: Bieg_29
+  - first:
+      213: 8342198443889724948
+    second: Bieg_30
+  - first:
+      213: -1734526286205179271
+    second: Bieg_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bieg_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5929516bfa9e00800000000000000
+      internalID: 1052429858470714246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d09df0a90c533b0800000000000000
+      internalID: -5533304799231406794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cc793e63eeee80800000000000000
+      internalID: -8147324613316262663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b2bfdaed2f53a0800000000000000
+      internalID: -6674565635941157573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4eb3a96a5cbd8b0800000000000000
+      internalID: -5126286431488318281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97aa639cedb5760800000000000000
+      internalID: 7447791364574181867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bded2a7087afb5d80800000000000000
+      internalID: -8260733698049909029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bieg_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c3cc0ec1005ea0800000000000000
+      internalID: -5886202728484190587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

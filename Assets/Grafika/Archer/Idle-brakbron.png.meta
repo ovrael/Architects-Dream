@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: ed5343673cd988e46a642a57274b5d25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4063845986122477242
+    second: Idle-brakbron_0
+  - first:
+      213: 7097525462424929516
+    second: Idle-brakbron_1
+  - first:
+      213: -6867594975728507818
+    second: Idle-brakbron_2
+  - first:
+      213: 8808728399529819563
+    second: Idle-brakbron_3
+  - first:
+      213: -5740390304991597298
+    second: Idle-brakbron_4
+  - first:
+      213: -2573200279643276680
+    second: Idle-brakbron_5
+  - first:
+      213: 7299355913041839636
+    second: Idle-brakbron_6
+  - first:
+      213: 9060352651317375582
+    second: Idle-brakbron_7
+  - first:
+      213: -2975058509873134475
+    second: Idle-brakbron_8
+  - first:
+      213: 1277860217218330960
+    second: Idle-brakbron_9
+  - first:
+      213: -2501232837911526309
+    second: Idle-brakbron_10
+  - first:
+      213: -37173697729818087
+    second: Idle-brakbron_11
+  - first:
+      213: -1436119257175254942
+    second: Idle-brakbron_12
+  - first:
+      213: -6918850702528128357
+    second: Idle-brakbron_13
+  - first:
+      213: 3741487586356487066
+    second: Idle-brakbron_14
+  - first:
+      213: -7205601611700040006
+    second: Idle-brakbron_15
+  - first:
+      213: -8070876843840809633
+    second: Idle-brakbron_16
+  - first:
+      213: 4770866651959952153
+    second: Idle-brakbron_17
+  - first:
+      213: -5748080526923789079
+    second: Idle-brakbron_18
+  - first:
+      213: 8256956716373276074
+    second: Idle-brakbron_19
+  - first:
+      213: 1317714802996395312
+    second: Idle-brakbron_20
+  - first:
+      213: -1168843627413584051
+    second: Idle-brakbron_21
+  - first:
+      213: -1888254228989997925
+    second: Idle-brakbron_22
+  - first:
+      213: 6639765032063113212
+    second: Idle-brakbron_23
+  - first:
+      213: -2234361942653496855
+    second: Idle-brakbron_24
+  - first:
+      213: 7502779500816917718
+    second: Idle-brakbron_25
+  - first:
+      213: 5301787027837523871
+    second: Idle-brakbron_26
+  - first:
+      213: 1619686128071093109
+    second: Idle-brakbron_27
+  - first:
+      213: 1908474649136793006
+    second: Idle-brakbron_28
+  - first:
+      213: 1858831047493443983
+    second: Idle-brakbron_29
+  - first:
+      213: 3862300837440007000
+    second: Idle-brakbron_30
+  - first:
+      213: 7858823133951610653
+    second: Idle-brakbron_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle-brakbron_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe2ab8a46ea56830800000000000000
+      internalID: 4063845986122477242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c024cdc97f7260800000000000000
+      internalID: 7097525462424929516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e17271c661b0a0800000000000000
+      internalID: -6867594975728507818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badbed80fc3ee3a70800000000000000
+      internalID: 8808728399529819563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d21e67e690650b0800000000000000
+      internalID: -5740390304991597298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3de3aaf72a4cd0800000000000000
+      internalID: -2573200279643276680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416810e77858c4560800000000000000
+      internalID: 7299355913041839636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-brakbron_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527a898bb6dcbd70800000000000000
+      internalID: 9060352651317375582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

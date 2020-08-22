@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 558f9b47f179b1c4a9333faa3032528d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8462627801279198804
+    second: ArrowProjectile_0
+  - first:
+      213: -4354867576311813855
+    second: ArrowProjectile_1
+  - first:
+      213: -6122817663844869346
+    second: ArrowProjectile_2
+  - first:
+      213: 2025579271004634386
+    second: ArrowProjectile_3
+  - first:
+      213: -6477028456486794410
+    second: ArrowProjectile_4
+  - first:
+      213: 329352029671354782
+    second: ArrowProjectile_5
+  - first:
+      213: -2757242323187354054
+    second: ArrowProjectile_6
+  - first:
+      213: -6970525256067456049
+    second: ArrowProjectile_7
+  - first:
+      213: 3030576727903361034
+    second: ArrowProjectile_8
+  - first:
+      213: 4180863418504376617
+    second: ArrowProjectile_9
+  - first:
+      213: 6089645967327648025
+    second: ArrowProjectile_10
+  - first:
+      213: 7630235782755981532
+    second: ArrowProjectile_11
+  - first:
+      213: 2676912246611692694
+    second: ArrowProjectile_12
+  - first:
+      213: -7048903242897123151
+    second: ArrowProjectile_13
+  - first:
+      213: 6371323648526195514
+    second: ArrowProjectile_14
+  - first:
+      213: -8232258048986789657
+    second: ArrowProjectile_15
+  - first:
+      213: -8751938060550228069
+    second: ArrowProjectile_16
+  - first:
+      213: 6362200211179401664
+    second: ArrowProjectile_17
+  - first:
+      213: -6300205786684005094
+    second: ArrowProjectile_18
+  - first:
+      213: -454193615515421851
+    second: ArrowProjectile_19
+  - first:
+      213: 5288390779583061707
+    second: ArrowProjectile_20
+  - first:
+      213: -7359544600594150677
+    second: ArrowProjectile_21
+  - first:
+      213: 1676256088327959695
+    second: ArrowProjectile_22
+  - first:
+      213: -176845309325761510
+    second: ArrowProjectile_23
+  - first:
+      213: -1786741463495592507
+    second: ArrowProjectile_24
+  - first:
+      213: 7623818362853653427
+    second: ArrowProjectile_25
+  - first:
+      213: -2999337835447271702
+    second: ArrowProjectile_26
+  - first:
+      213: -3301209159016295057
+    second: ArrowProjectile_27
+  - first:
+      213: 618881902495972046
+    second: ArrowProjectile_28
+  - first:
+      213: 2545787042126574589
+    second: ArrowProjectile_29
+  - first:
+      213: -7238196403770849257
+    second: ArrowProjectile_30
+  - first:
+      213: 7126642836653458122
+    second: ArrowProjectile_31
+  - first:
+      213: 6353482095564634223
+    second: ArrowProjectile_32
+  - first:
+      213: -2135488213186216022
+    second: ArrowProjectile_33
+  - first:
+      213: -8306230480670358276
+    second: ArrowProjectile_34
+  - first:
+      213: 2847551682684832041
+    second: ArrowProjectile_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 26
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4567799f52b417570800000000000000
+      internalID: 8462627801279198804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
