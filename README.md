@@ -44,6 +44,7 @@ Implemented:
 * 1 pseudorandom maps
 * 1 stationary practice enemy
 * Movement and shooting
+* Damage indicators
 * Different chest with various content
 
 In plans:
@@ -53,6 +54,9 @@ In plans:
 * Enemies
 * More items
 * Correct sprites
+* Hero life system
+* Skills
+* List of picked items
 
 ## Youtube video
 
