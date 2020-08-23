@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitStrapEditorAssembly", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{8E2B4AD5-E62B-1FE7-2577-6508A539CD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{8DD4BCA0-97EE-22D5-D4B5-A1C3BEDC992C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{8E2B4AD5-E62B-1FE7-2577-6508A539CD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E2B4AD5-E62B-1FE7-2577-6508A539CD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E2B4AD5-E62B-1FE7-2577-6508A539CD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD4BCA0-97EE-22D5-D4B5-A1C3BEDC992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD4BCA0-97EE-22D5-D4B5-A1C3BEDC992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD4BCA0-97EE-22D5-D4B5-A1C3BEDC992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD4BCA0-97EE-22D5-D4B5-A1C3BEDC992C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,726 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-08-23T08:59:12.838+02:00
+  initializedAtString: 2020-08-23T08:57:10.804+02:00
+  entries:
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: E:\Unity\Lucznik\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: E:\Unity\Lucznik\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: E:\Unity\Lucznik\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BitStrapEditorAssembly.csproj
+    fullPath: E:\Unity\Lucznik\BitStrapEditorAssembly.csproj
+    projectPath: BitStrapEditorAssembly.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BitStrapRuntimeAssembly.csproj
+    fullPath: E:\Unity\Lucznik\BitStrapRuntimeAssembly.csproj
+    projectPath: BitStrapRuntimeAssembly.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: E:\Unity\Lucznik\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: E:\Unity\Lucznik\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\00ad6aa63f23aebbf15ab2935f5de7c5
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\00\00ad6aa63f23aebbf15ab2935f5de7c5
+    projectPath: Library\Artifacts\00\00ad6aa63f23aebbf15ab2935f5de7c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e929f808083805ed47432848e71f780
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\0e\0e929f808083805ed47432848e71f780
+    projectPath: Library\Artifacts\0e\0e929f808083805ed47432848e71f780
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0ede477425ef4caf2df4a7e4385f2afa
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\0e\0ede477425ef4caf2df4a7e4385f2afa
+    projectPath: Library\Artifacts\0e\0ede477425ef4caf2df4a7e4385f2afa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1dded100a2bfc30cbb660a6c43e2df14
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\1d\1dded100a2bfc30cbb660a6c43e2df14
+    projectPath: Library\Artifacts\1d\1dded100a2bfc30cbb660a6c43e2df14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\2719f03daaf28d2d00f6973065dd8eaa
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\27\2719f03daaf28d2d00f6973065dd8eaa
+    projectPath: Library\Artifacts\27\2719f03daaf28d2d00f6973065dd8eaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\285d75065b7e8ef057935ab718d47cae
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\28\285d75065b7e8ef057935ab718d47cae
+    projectPath: Library\Artifacts\28\285d75065b7e8ef057935ab718d47cae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2cf8df42f98b45c0b66ae7aba0644fb4
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\2c\2cf8df42f98b45c0b66ae7aba0644fb4
+    projectPath: Library\Artifacts\2c\2cf8df42f98b45c0b66ae7aba0644fb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31d17122936bd70995c20e82bd8c42a7
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\31\31d17122936bd70995c20e82bd8c42a7
+    projectPath: Library\Artifacts\31\31d17122936bd70995c20e82bd8c42a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a3718082caffd97daff0ba9722fde52
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\3a\3a3718082caffd97daff0ba9722fde52
+    projectPath: Library\Artifacts\3a\3a3718082caffd97daff0ba9722fde52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\465269245c00ef64b6b3b1e7c1785910
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\46\465269245c00ef64b6b3b1e7c1785910
+    projectPath: Library\Artifacts\46\465269245c00ef64b6b3b1e7c1785910
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\4906d877b1665f40e918722c5c6985f1
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\49\4906d877b1665f40e918722c5c6985f1
+    projectPath: Library\Artifacts\49\4906d877b1665f40e918722c5c6985f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\490aae667a272a0187eac9f209d8e0fd
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\49\490aae667a272a0187eac9f209d8e0fd
+    projectPath: Library\Artifacts\49\490aae667a272a0187eac9f209d8e0fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5cb2b0fb1c929fd34edc90db9880c990
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\5c\5cb2b0fb1c929fd34edc90db9880c990
+    projectPath: Library\Artifacts\5c\5cb2b0fb1c929fd34edc90db9880c990
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5ce6e67d220f1a4e613f9d469924d374
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\5c\5ce6e67d220f1a4e613f9d469924d374
+    projectPath: Library\Artifacts\5c\5ce6e67d220f1a4e613f9d469924d374
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    projectPath: Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
+    projectPath: Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\726eb986371ac10186f66b7626eec442
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\72\726eb986371ac10186f66b7626eec442
+    projectPath: Library\Artifacts\72\726eb986371ac10186f66b7626eec442
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\76edb53f339e6af949aa91b9df975ed8
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\76\76edb53f339e6af949aa91b9df975ed8
+    projectPath: Library\Artifacts\76\76edb53f339e6af949aa91b9df975ed8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\8130a2e48a862d3ed6c7ad0a838e3176
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\81\8130a2e48a862d3ed6c7ad0a838e3176
+    projectPath: Library\Artifacts\81\8130a2e48a862d3ed6c7ad0a838e3176
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\8684395b0e4f66a5e0009a795079a19d
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\86\8684395b0e4f66a5e0009a795079a19d
+    projectPath: Library\Artifacts\86\8684395b0e4f66a5e0009a795079a19d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8a82e81ac2a46aacf94246b85615e8ab
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\8a\8a82e81ac2a46aacf94246b85615e8ab
+    projectPath: Library\Artifacts\8a\8a82e81ac2a46aacf94246b85615e8ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    projectPath: Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\910219bf38475b9fb08827de8a903095
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\91\910219bf38475b9fb08827de8a903095
+    projectPath: Library\Artifacts\91\910219bf38475b9fb08827de8a903095
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\95\95adcf76d2eb57001c37c75901fb0051
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\95\95adcf76d2eb57001c37c75901fb0051
+    projectPath: Library\Artifacts\95\95adcf76d2eb57001c37c75901fb0051
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a5\a5bc7b73f8921629a00199d67052ebe4
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\a5\a5bc7b73f8921629a00199d67052ebe4
+    projectPath: Library\Artifacts\a5\a5bc7b73f8921629a00199d67052ebe4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\ab4eb33fdb9f0f033e3db0365720e837
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\ab\ab4eb33fdb9f0f033e3db0365720e837
+    projectPath: Library\Artifacts\ab\ab4eb33fdb9f0f033e3db0365720e837
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\ab60aa6ab3c4ee149989308b48dbd51c
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\ab\ab60aa6ab3c4ee149989308b48dbd51c
+    projectPath: Library\Artifacts\ab\ab60aa6ab3c4ee149989308b48dbd51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b6bc9ff38775bebf159cd30eae995164
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\b6\b6bc9ff38775bebf159cd30eae995164
+    projectPath: Library\Artifacts\b6\b6bc9ff38775bebf159cd30eae995164
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    projectPath: Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba3b33102cbbf598f5aa64563d94432a
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\ba\ba3b33102cbbf598f5aa64563d94432a
+    projectPath: Library\Artifacts\ba\ba3b33102cbbf598f5aa64563d94432a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c0b1edd971c081cf4c93de003a73aa28
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\c0\c0b1edd971c081cf4c93de003a73aa28
+    projectPath: Library\Artifacts\c0\c0b1edd971c081cf4c93de003a73aa28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c169de2a6a61f8af15424ab7fe1550a9
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\c1\c169de2a6a61f8af15424ab7fe1550a9
+    projectPath: Library\Artifacts\c1\c169de2a6a61f8af15424ab7fe1550a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c618148879400ff0f70a80271482bd4b
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\c6\c618148879400ff0f70a80271482bd4b
+    projectPath: Library\Artifacts\c6\c618148879400ff0f70a80271482bd4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\da60900725534f20ef43748488f5481f
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\da\da60900725534f20ef43748488f5481f
+    projectPath: Library\Artifacts\da\da60900725534f20ef43748488f5481f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e42ad5c036f59c3fdaba0c73aa0ec9f2
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\e4\e42ad5c036f59c3fdaba0c73aa0ec9f2
+    projectPath: Library\Artifacts\e4\e42ad5c036f59c3fdaba0c73aa0ec9f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    projectPath: Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2dc1580a12b68cbc14e21eb8064e114
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\f2\f2dc1580a12b68cbc14e21eb8064e114
+    projectPath: Library\Artifacts\f2\f2dc1580a12b68cbc14e21eb8064e114
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f95ce95e20e05bb26e1abb7e34fc17e6
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\f9\f95ce95e20e05bb26e1abb7e34fc17e6
+    projectPath: Library\Artifacts\f9\f95ce95e20e05bb26e1abb7e34fc17e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffcf738ed43378e9560b758cf2a496d7
+    fullPath: E:\Unity\Lucznik\Library\Artifacts\ff\ffcf738ed43378e9560b758cf2a496d7
+    projectPath: Library\Artifacts\ff\ffcf738ed43378e9560b758cf2a496d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Collab\CollabSnapshot_010e9ef8-c54f-4988-90eb-7484aa80be25.txt
+    fullPath: E:\Unity\Lucznik\Library\Collab\CollabSnapshot_010e9ef8-c54f-4988-90eb-7484aa80be25.txt
+    projectPath: Library\Collab\CollabSnapshot_010e9ef8-c54f-4988-90eb-7484aa80be25.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: E:\Unity\Lucznik\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: E:\Unity\Lucznik\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Unity\Lucznik\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: E:\Unity\Lucznik\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: E:\Unity\Lucznik\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Lucznik.sln
+    fullPath: E:\Unity\Lucznik\Lucznik.sln
+    projectPath: Lucznik.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: E:\Unity\Lucznik\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
