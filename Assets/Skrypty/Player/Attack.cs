@@ -38,7 +38,7 @@ public class Attack : MonoBehaviour
         {
             animacja.SetBool("czyAtakuje", true);
             Shoot();
-            animacja.SetFloat("AttackSpeed", player.AttackSpeed/100);
+            animacja.SetFloat("AttackSpeed", player.AttackSpeed / 100);
             attackTime = timeBetweenAttacks;
         }
         else

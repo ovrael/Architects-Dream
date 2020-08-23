@@ -60,7 +60,9 @@ In plans:
 
 ## Screenshots
 
-TBD
+![Screenshot 1](./ReadMeIMG/Screen1.png)
+![Screenshot 2](./ReadMeIMG/Screen2.png)
+![Screenshot 3](./ReadMeIMG/Screen3.png)
 
 ## Status
 
